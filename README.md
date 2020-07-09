@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hivemind
+
+Member of the Square Community
 
 <!--
 **Hives/Hives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
